@@ -1,0 +1,31 @@
+.sugar-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.sugar-container h2 {
+    font-size: 4.4rem;
+    color: black;
+    width: 35rem;
+    margin-bottom: 1.7rem;
+}
+.sugar-container p {
+    width: 45rem;
+    font-size: 1.6rem;
+    color: black;
+    opacity: .7;
+    margin-bottom: 3.5rem;
+}
+.sugar-container button {
+    border: none;
+    padding: 1.4rem 5rem;
+    background-color: #D23166;
+    border-radius: .5rem;
+    cursor: pointer;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+}
+.sugar-box {
+    background-color: #F2CEDA;
+    margin: 10rem 0;
+}

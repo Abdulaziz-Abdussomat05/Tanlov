@@ -1,0 +1,31 @@
+.simple-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.simple-box {
+    background-color: #F2CEDA;
+    padding: 4rem 0;
+}
+.simple-right-section h2 {
+color: black;
+font-size: 4.4rem;
+margin-bottom: 2rem;
+
+}
+.simple-right-section p {
+    font-size: 1.8rem;
+    margin-bottom: 3.1rem;
+    color: black;
+    opacity: .7;
+    width: 45rem;
+}
+.simple-right-section div {
+    display: flex;
+    align-items: center;
+    
+
+}
+.simple-box {
+    margin-bottom: 15rem;
+}

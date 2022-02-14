@@ -1,0 +1,27 @@
+.adele-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.adele-box {
+    display: flex;
+    margin-bottom: 5rem;
+}
+.adele-box  h3 {
+    font-size: 2.4rem;
+    color: black;
+    margin-bottom: .5rem;
+}
+.adele-center-box p {
+    width: 30rem;
+    font-size: 1.6rem;
+    margin-bottom: 5.6rem;
+}
+.adele-box-footer ul {
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+}
+.adele-box-footer li {
+    margin-right: 3rem;
+}

@@ -1,0 +1,30 @@
+.bread-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.bread-right-section h2 {
+    font-size: 2.6rem;
+    color: black;
+    margin-bottom: 1.1rem;
+    font-weight: bold;
+}
+.bread-right-section .text-bread {
+    color: black;
+    opacity: .7;
+    font-size: 1.6rem;
+    width: 48rem;
+    margin-bottom: 3.4rem;
+}
+.bread-right-section button {
+    border: none;
+    padding: 1.4rem 5rem;
+    background-color: #D23166;
+    border-radius: .5rem;
+    cursor: pointer;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+}
+.bread-box {
+    margin-bottom: 3rem;
+}

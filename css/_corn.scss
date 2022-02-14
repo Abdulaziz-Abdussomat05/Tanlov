@@ -1,0 +1,27 @@
+.corn-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.corn-box h2 {
+    font-size: 2.6rem;
+    color: black;
+    margin-bottom: 1.1rem;
+    font-weight: bold;
+}
+.corn-box .text-corn {
+    color: black;
+    opacity: .7;
+    font-size: 1.6rem;
+    width: 48rem;
+    margin-bottom: 3.4rem;
+}
+.corn-box button {
+    border: none;
+    padding: 1.4rem 5rem;
+    background-color: #D23166;
+    border-radius: .5rem;
+    cursor: pointer;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+}
